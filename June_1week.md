@@ -1,7 +1,7 @@
 ## swiperJS
 ### `🥵이슈`_ [issue5756](https://github.com/nolimits4web/swiper/issues/5756)
 >  swiperJS 8.1.6 ~ 8.2.1버전 사용중이고,  window chrome에서 vue 프로젝트 내에서 autoplay를 샤용했더니, 정상 작동했지만 console에서 버그가 났어
-   - autoplay Maximum call stack size exceede
+   - autoplay Maximum call stack size exceede          
     ![image](https://user-images.githubusercontent.com/63353110/171977674-64bfdc67-7455-44ea-a6a9-479575b8f5cd.png)
    -  [예시](https://stackblitz.com/edit/vitejs-vite-6ep5ry?file=package.json,src%2FApp.vue&terminal=dev)
 
